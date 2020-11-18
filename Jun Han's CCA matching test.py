@@ -14,7 +14,7 @@ uniform1 = input("I can follow orders and instructions given to me.")
 
 tech2 = input("I know how to build apps and websites.")
 
-outdoor2 = input("I'm good with tying knots and ropes.")
+outdoor2 = input("I'm good with building structures.")
 
 music2 = input("I play a musical instrument well.")
 
